@@ -5,4 +5,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudando na Escola Sesi<br/> Eu sou desenvolvedor {sua stack}</p>
+<p>Estudando na Escola Sesi<br/> Cursando Análise Desenvolvimento de Sistemas no senai</p>
